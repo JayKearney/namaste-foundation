@@ -9,6 +9,21 @@
 
 
 body {
-    font-family: 'Miss Fajardose', cursive;
+    font-family: 'Poppins', sans-serif;
     font-weight: 300;
+    color: #180b04;
 }
+
+/* headings and logo */
+
+h1,h2 {
+    font-family: 'Miss Fajardose', cursive;
+    color: #2ea7f4;
+}
+
+#logo {
+    float: left;
+    font-size: 400%;
+}
+
+
