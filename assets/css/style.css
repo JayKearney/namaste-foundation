@@ -23,8 +23,9 @@ h1,h2 {
 
 #logo {
     float: left;
-    font-size: 400%;
-    margin: 40px 30px;
+    font-size: 300%;
+    margin: 0px 0px;
+    margin-top: 0px;
 }
 
 /* navigation links */
@@ -34,7 +35,7 @@ h1,h2 {
 }
 
 #menu #logo {
-    line-height: 75px;
+    line-height: px;
 }
 
 #menu li {
@@ -56,9 +57,16 @@ h1,h2 {
     border-bottom: 1px solid #223348;
 }
 
-#budha-image {
-    height: 900px;
-    width: 100%;
-    background: url('../images/budha\ sky.jpg') no-repeat center left;
-    margin-top: 20px;
+.flex-container {
+    display: flex;
 }
+
+.flex-child {
+    flex: 1;
+    border: 4px solid #c8bf9e;
+}  
+
+.flex-child:first-child {
+    margin-right: 20px;
+    
+} 
