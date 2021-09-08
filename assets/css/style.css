@@ -44,6 +44,7 @@ li {
 }
 .menu {
     font-size: 114%;
+    font-weight: 800;
 }
 .menu li {
     display: flex;
@@ -93,7 +94,11 @@ li {
     justify-content: left;
     text-align: center;
     display: flex;
-    margin-top: 100px;
+    margin-top: 120px;
+    font-weight:900;
+    padding: 0 40px;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 /* footer */
