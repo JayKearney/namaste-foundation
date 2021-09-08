@@ -100,7 +100,7 @@ footer {
 .social-networks {
     text-align: center;
     align-items: center;
-    display: flex;    
+    display: flex;  
 }
 
 .social-networks a {
@@ -141,7 +141,7 @@ footer {
 }
 
 signup-form {
-    margin: 150px 10% 0 0;
+    margin: 150px 10% 20 0;
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
     max-width: 400px;
@@ -152,7 +152,8 @@ signup-form {
 
 .signup-form > h2 {
     color: #fafafa;
-    margin-bottom: 0px;
+    margin-bottom: 30px;
+    margin-top: 20px;
 }
 
 .text-input {
@@ -175,13 +176,57 @@ signup-form {
     padding: 15px 32px 15px 32px;
     text-align: center;
     font-size: 100%;
-    background-color: #f16c6b;
+    background-color: #967b3e;
     color: #fafafa;
     display: block;
 }
 
 .join-button:hover {
     background-color: #fafafa;
-    color: #f16c6b;
+    color: #2EA7F4;
+}
+
+/* Find us */
+
+#find-us-section {
+    float: left;
+    width: 66%;
+    flex-grow: 1;
+}
+
+#find-us-section h2 {
+    text-align: center;
+}
+
+#map {
+    position: relative;
+    margin: 40px 10% 0;
+    overflow: hidden;
+    max-width: 100%
+}
+
+/* Contact section */
+
+#contact {
+    float: right;
+    width: 33%;
+    background-color: #e2ecba;
+    align-items: stretch;
+    flex-grow: 1;
+}
+
+#contact h2 {
+    text-align: center;
+}
+
+#contact p {
+    text-align: justify;
+    margin: auto 10%;
+    line-height: 25px;
+    margin-bottom: 20px;
+}
+
+#contact span {
+    padding-left: 16px;
 }
 
