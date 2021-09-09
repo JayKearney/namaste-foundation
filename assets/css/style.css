@@ -29,6 +29,9 @@
     transform: translate(-50%, 0);
 }
 
+#volunteer-header {
+    height: 100px;
+}
 
 
 body {
