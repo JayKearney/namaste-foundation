@@ -339,7 +339,7 @@ footer {
     #section-wrapper {
         display: block;
     }
-
+}
 
 /* For medium screen sizes from 950px wide and down */
 @media screen and (max-width: 950px) {
@@ -364,9 +364,31 @@ footer {
     }
 }
 
+/* For small screen sizes 700px and down */
+@media screen and (max-width: 700px) {
+    
+
+.budha {
+    flex-direction: column;
+}
+
+.flex-child img {
+    width: 100%;
+}
+
+.mission {
+    margin-top: 20px;
+}
+
+}
+
 /* Style small screen sizes from 425px wide and down */
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 440px) {
+
+    .sanskrit {
+        margin-top: 25px;
+    }
 
     #footer {
         width: 100%;
@@ -378,7 +400,10 @@ footer {
     .social-networks {
         text-align: center;
         width: 100%;
-        margin: 100px 0;
+    }
+
+    .social-networks > li {
+        margin: 0 5%;
     }
 }
 
