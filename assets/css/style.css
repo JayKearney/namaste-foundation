@@ -280,6 +280,10 @@ footer {
     margin-right: auto;
 }
 
+#map > iframe {
+    margin-left:4rem;
+}
+
 /* Contact section */
 
 #contact {
@@ -363,7 +367,17 @@ footer {
     #photos {
         column-count: 2;
     }
+    .section-wrapper {
+        flex-direction: column;
+    }
+
+    #map > iframe {
+        margin-left:0;
+    }
+
 }
+
+
 
 /* For small screen sizes 700px and down */
 @media screen and (max-width: 700px) {
@@ -420,4 +434,13 @@ footer {
     left: 0;
     width: 100%;
     height: 100%;
+}
+
+/* Style small screen sizes from 345px wide and down */
+
+@media screen and (max-width: 345px) {
+    .form-section {
+        height: 500px;
+    }
+
 }
