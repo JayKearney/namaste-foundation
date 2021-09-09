@@ -199,18 +199,16 @@ footer {
     background-color: #f6d09d;
     background-size: cover;
     background-position: center;
-    height: 400px;
-    padding: 0 300px;
+    height: 450px;
+    margin-bottom: 20px;
 }
 
-#signup-form {
-    margin: 150px 10% 20 0;
-    color: #fff;
-    background-color: rgba(60, 60, 60, 0.6);
-    max-width: 400px;
-    left: 10%;
-    padding: 30px;
-    position: absolute;
+.signup-form {
+    color: #180B04;
+    width: min(800px, 80%);
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0px);
 }
 
 .signup-form > h2 {
