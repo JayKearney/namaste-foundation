@@ -23,7 +23,7 @@ Namaste Foundation website will be useful for volunteers to see themselves repre
   - It was important to highlight in the first page that this is an NGO and all the help comes from volunteers.
   - It was important that all would be in one block to show how they complement each other.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png) -add
+![Landing Page](https://github.com/JayKearney/namaste-foundation/blob/main/assets/images/read.me/landing%20page.png)
 
 - __The Footer__ 
 
