@@ -3,7 +3,7 @@
 Namaste Foundation is the site belonging to the Foundation of the same name. It hopes to be a modern way to attract a community of like minded individuals to learn more about the Foundation principles and sign up to volunteer. It is based in Dublin, Ireland. The site will be targeted people who are yoga and meditation teachers, but also people who wants to learn and make the world a better place.
 Namaste Foundation website will be useful for volunteers to see themselves represented in the gallery page, and for new volunteers to join the Foundation.
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Responsice Mockup](https://github.com/JayKearney/namaste-foundation/assets/images/read.me/responsive-sites.png)
 
 ## Features 
 
