@@ -5,35 +5,6 @@
     border: none;
 }
 
-
-#container-home {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-}
-
-#container-home header {
-    margin-bottom: 0;
-    height: 100px;
-}
-
-#container-home main {
-    flex-grow: 2;
-}
-
-
-.container-main{
-    max-width: 1920px;
-    position: relative;
-    left: 50%;
-    transform: translate(-50%, 0);
-}
-
-#volunteer-header {
-    height: 100px;
-}
-
-
 body {
     font-family: 'Poppins', sans-serif;
     font-weight: 300;
@@ -73,6 +44,11 @@ menu {
     margin-top: 0px;
 }
 
+#volunteer-header {
+    height: 100px;
+}
+
+
 /* navigation links */
 ul { 
     float: right;
@@ -111,6 +87,29 @@ li {
     font-size: 200%;
     font-family: 'Poppins', sans-serif;
     color: #cc7405;
+}
+
+#container-home {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+#container-home header {
+    margin-bottom: 0;
+    height: 100px;
+}
+
+#container-home main {
+    flex-grow: 2;
+}
+
+
+.container-main{
+    max-width: 1920px;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
 }
 
 .flex-container {
@@ -254,6 +253,11 @@ footer {
 
 /* Find us */
 
+#volunteer-header {
+    height: 100px;
+}
+
+
 .section-wrapper {
     overflow: auto;
     display: flex;
@@ -377,12 +381,10 @@ footer {
 
 }
 
-
-
 /* For small screen sizes 700px and down */
+
 @media screen and (max-width: 700px) {
     
-
 .budha {
     flex-direction: column;
 }
@@ -420,7 +422,6 @@ footer {
     .social-networks > li {
         margin: 0 5%;
     }
-}
 
 #map {
     position: relative;
@@ -428,12 +429,15 @@ footer {
     padding-top: 25px;
     height: 0;
 }
+
 #map iframe {
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
+}
+
 }
 
 /* Style small screen sizes from 345px wide and down */
