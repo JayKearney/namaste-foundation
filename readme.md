@@ -3,18 +3,15 @@
 Namaste Foundation is the site belonging to the Foundation of the same name. It hopes to be a modern way to attract a community of like minded individuals to learn more about the Foundation principles and sign up to volunteer. It is based in Dublin, Ireland. The site will be targeted people who are yoga and meditation teachers, but also people who wants to learn and make the world a better place.
 Namaste Foundation website will be useful for volunteers to see themselves represented in the gallery page, and for new volunteers to join the Foundation.
 
-![Responsice Mockup](https://github.com/JayKearney/namaste-foundation/blob/main/assets/images/read.me/responsive-sites.png)
-
-## Features 
-
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+![Responsice pages](https://github.com/JayKearney/namaste-foundation/blob/main/assets/images/read.me/responsive-sites.png)
 
 ### Existing Features
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Volunteer page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  - 
 
 ![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
 

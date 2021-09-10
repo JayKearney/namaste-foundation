@@ -443,6 +443,7 @@ footer {
 /* Style small screen sizes from 345px wide and down */
 
 @media screen and (max-width: 345px) {
+
     .form-section {
         height: 500px;
     }
