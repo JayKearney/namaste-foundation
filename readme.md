@@ -11,58 +11,54 @@ Namaste Foundation website will be useful for volunteers to see themselves repre
 
   - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Volunteer page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
-  - 
+  - I wanted to highlight the page the user is in, and for it to light up when selecting as well, to make it more user friendly.
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar](https://github.com/JayKearney/namaste-foundation/blob/main/assets/images/read.me/navbar.png)
 
-- __The landing page image__
+- __The landing page image and mission section__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - The landing includes an image of a Budha in a meditation position during a sunset and a section right next to it, where we read the Namaste's Foundation Mission. 
+  - This section introduces the user to the Namaste Foundation with a peaceful image and colour pallete that resembles the one found at the studio.
+  - The user will learn what the word Namaste means, get a calm sensation after seeing the Budha meditating and learn about the core values of the foundation.
+  - It was important to highlight in the first page that this is an NGO and all the help comes from volunteers.
+  - It was important that all would be in one block to show how they complement each other.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
-
-- __Club Ethos Section__
-
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
-
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
-
-- __Meetup Times section__
-
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
-
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png) -add
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer section includes links to the relevant social media sites for the Namaste Foundation. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](https://github.com/JayKearney/namaste-foundation/blob/main/assets/images/read.me/footer.png)
 
 - __Gallery__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - The gallery will provide the user with images of the volunteers doing and giving yoga and meditation classes.
+  - This section is valuable to the user as they will be able to see how the studio looks like, the type of classes are provided and it also helps to give a face to the volunteers and their importance.
+  - The gallery is divided in columns that will change size depending on the device used to view the page.
+  - It provides a more real view to what the Foundation is about.
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Gallery](https://github.com/JayKearney/namaste-foundation/blob/main/assets/images/read.me/gallery.png)
 
-- __The Sign Up Page__
+- __The Become a volunteer form__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - This form will allow the user to become a volunteer and start their mindfullness journey. The user will be able to specify if they would like to take part in yoga, meditation or both. The user will be asked to submit their full name and email address.
+  - The icon used beside "Become a volunteer" are praying hands, to continue with the same theme through all the website, the same as the same colour pallete used in the previous pages.
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Sign Up](https://github.com/JayKearney/namaste-foundation/blob/main/assets/images/read.me/signup-form.png)
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
+- __The Location and Contact section__
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+  - On the left of the page we will see the location of the Foundation with a map from Google maps. This allows the user to find it more easily. 
+  - On the right of the page we can see the contact details such as address, email and phone number.
+  - When the screen is viewed on mobile, the map will display on top of the contact section, to provide a clearer view.
+
+![Sign Up](https://github.com/JayKearney/namaste-foundation/blob/main/assets/images/read.me/location-contact.png)
 
 ### Features Left to Implement
 
-- Another feature idea
+- Library section where spiritual books can be bought online to support the foundation.
 
 ## Testing 
 
